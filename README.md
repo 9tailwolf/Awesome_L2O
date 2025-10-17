@@ -1,6 +1,9 @@
 # Awesome L2O
 This repository aims to collect all papers related to `Learning 2 Optimize`. Especially, the target of papers is **general constrained optimization problem**.
 
+
+## Implicit Neural Network Based Methods
+
 - [OptNet: Differentiable Optimization as a Layer in Neural Networks](https://arxiv.org/abs/1703.00443), PMLR '17
 
 - [Differentiable Convex Optimization Layers](https://arxiv.org/abs/1910.12430), NeurIPS, '19
@@ -24,5 +27,17 @@ This repository aims to collect all papers related to `Learning 2 Optimize`. Esp
 - [ENFORCE: Nonlinear Constrained Learning with Adaptive-depth Neural Projection](https://arxiv.org/abs/2502.06774), Arxiv '25
 
 - [FSNet: Feasibility-Seeking Neural Network for Constrained Optimization with Guarantees](https://arxiv.org/abs/2506.00362), Arxiv '25
+
+
+
+## Diffusion Based Methods
+
+- [Diffusion Models are Evolutionary Algorithms](https://arxiv.org/abs/2410.02543), Arxiv '24
+
+- [Equality Constrained Diffusion for Direct Trajectory Optimization](https://arxiv.org/abs/2410.01939), Arxiv '24
+
+- [Constrained Synthesis with Projected Diffusion Models](https://arxiv.org/abs/2402.03559), NeurIPS '24
+
+- [https://arxiv.org/abs/2502.10330](https://arxiv.org/abs/2502.10330), Arxiv '25
 
 
