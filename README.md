@@ -1,5 +1,5 @@
 # Awesome L2O
-This repository aims to collect all papers related to `Learning 2 Optimize`. Especially, the target of papers is **general constraint optimization problem**.
+This repository aims to collect all papers related to `Learning 2 Optimize`. Especially, the target of papers is **general constrained optimization problem**.
 
 - [OptNet: Differentiable Optimization as a Layer in Neural Networks](https://arxiv.org/abs/1703.00443), PMLR '17
 
